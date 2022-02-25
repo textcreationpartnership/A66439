@@ -1,0 +1,352 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A pindariqve elegy on the most famous and learned physitian Dr. Willis</title>
+            <author>N. W. (Nathaniel Williams), d. 1679.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66439</idno>
+            <idno type="STC">Wing W2748</idno>
+            <idno type="STC">ESTC R27593</idno>
+            <idno type="EEBO-CITATION">09976975</idno>
+            <idno type="OCLC">ocm 09976975</idno>
+            <idno type="VID">44424</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66439)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44424)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1346:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A pindariqve elegy on the most famous and learned physitian Dr. Willis</title>
+                  <author>N. W. (Nathaniel Williams), d. 1679.</author>
+                  <author>West, N.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Oxford :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Attributed to Nathaniel Williams--NUC pre-1956 imprints. Also sometimes attributed to N. West.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Willis, Thomas, 1621-1675 --  Poetry.</term>
+               <term>Elegiac poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:44424:1"/>
+            <!-- PDF PAGE 98 -->
+            <pb facs="tcp:44424:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 98 -->
+            <head>A PINDARIQVE ELEGY On the moſt Famous and Learned PHYSITIAN D<hi rend="sup">R.</hi> VVILLIS</head>
+            <lg n="1">
+               <head>1.</head>
+               <l>POor mortal duſt! how we admire</l>
+               <l>The ſparkling, vital fire,</l>
+               <l>That like a ſilent Taper under ground,</l>
+               <l>Goes out as ſoon as found;</l>
+               <l>No ſooner has the Teeming womb,</l>
+               <l>Prepar'd her burthen for another room,</l>
+               <l>But now the Infant's born, and cries,</l>
+               <l>Complains a little while, and dies.</l>
+               <l>The weari'd Patriarchs at laſt,</l>
+               <l>After ſo many hundred years were paſt,</l>
+               <l>Lay'd down their aged heads,</l>
+               <l>Tyr'd with their numerous daies, in their original beds.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Swadled with cares, we come</l>
+               <l>From the dark priſon of the womb,</l>
+               <l>Where we half ſmother'd lay</l>
+               <l>Till reſcu'd by a beam of day;</l>
+               <l>And here the world preſents</l>
+               <l>Infectious Elements,</l>
+               <l>To converſe with the ſtranger, till</l>
+               <l>They bring him to his fatal Ill.</l>
+               <l>With much ado, much pains, and ſtrife,</l>
+               <l>We run the Gauntlet in this wretched life,</l>
+               <l>On each ſide ſtands the merci'leſſe throng,</l>
+               <l>To ſcourge us as we run along,</l>
+               <l>And after we have almoſt ſpent our breath,</l>
+               <l>Are rackt at laſt, by ſome ſlow lingring pain to death.</l>
+            </lg>
+            <lg n="3">
+               <head>3.</head>
+               <l>And now great death has got the ſtart</l>
+               <l>Of thee, and thy ſo powerfull art;</l>
+               <l>Yet thou like the great Champion of the age,</l>
+               <l>Once quel'ſt the Tyrants rage,</l>
+               <l>And whil'ſt he triumph't did'ſt controul,</l>
+               <l>Redeem'ſt the trembling, captive ſoul;</l>
+               <l>
+                  <pb n="2" facs="tcp:44424:2" rendition="simple:additions"/>
+                  <!-- PDF PAGE 99 -->
+Nature, and torment, both obey,</l>
+               <l>And to the ſaving medicine give way;</l>
+               <l>Thou'dſt diſpoſſeſs, and Cure</l>
+               <l>The ſhivering Ague, and the burning Galenture,</l>
+               <l>Conſumptions, Feavers, Gripings, Stone</l>
+               <l>That makes the tortur'd Patient grone;</l>
+               <l>With all the num'rous hoſt</l>
+               <l>Of torments, that the body ſtill accoſt;</l>
+               <l>Thou'dſt ſtretch lifes little ſpan,</l>
+               <l>Caſt out the mighty Legion, and reſtore the man.</l>
+            </lg>
+            <lg n="4">
+               <head>4.</head>
+               <l>Could either Art, or Nature ſave</l>
+               <l>Thee, from the gulph, the grave,</l>
+               <l>Or change the conſtant courſe of fate,</l>
+               <l>Make it revoke th' unalterable date;</l>
+               <l>Could all the treaſures of Philoſophy,</l>
+               <l>Defeat the mighty Deſtiny,</l>
+               <l>Or with its pleaſant, golden fruit,</l>
+               <l>Stop Fates ſwift chariot in the fierce purſuit;</l>
+               <l>Could ought that's mortal e're revoke,</l>
+               <l>This Fatal, Univerſal ſtroke;</l>
+               <l>Obſtruct Heaven to diſpence,</l>
+               <l>Or dart again from hence,</l>
+               <l>To the infectious Stars their poy'ſnous influence.</l>
+            </lg>
+            <lg n="5">
+               <head>5.</head>
+               <l>The <gap reason="illegible: missing" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thy art thou wouldſt renew,</l>
+               <l>And ſtill extend the fatal Clue;</l>
+               <l>We then had ſeen engroſt in thee</l>
+               <l>Learnings Monopoly.</l>
+               <l>The Microcoſm thou ſail'ſt round,</l>
+               <l>Diſcover'ſt things before unfound,</l>
+               <l>And thy great wiſdom underſtood</l>
+               <l>The circling Ocean of the bloud,</l>
+               <l>And by its working looks, (and more</l>
+               <l>Then has bin known before,)</l>
+               <l>Tels't when the tempeſt's neare,</l>
+               <l>And nature's out of order there;</l>
+               <l>The vital Bellows couldſt repair,</l>
+               <l>When injur'd by infectious air.</l>
+               <l>Thou keep'ſt the ſoul within, when like a wind</l>
+               <l>(which ſtruggles when confin'd,)</l>
+               <l>It ſtrives to ſcape, and leave the deſolate Corps behind.</l>
+            </lg>
+            <lg n="6">
+               <head>6.</head>
+               <l>Thou knew'ſt the wondrous art,</l>
+               <l>And order of each part</l>
+               <l>In the whole lump, how every ſenſe</l>
+               <l>Contributes to the healths defence;</l>
+               <l>The ſeveral channels, which convey</l>
+               <l>The vital current every way;</l>
+               <l>Track'ſt wiſe nature every where,</l>
+               <l>In every region, every ſphere,</l>
+               <l>Fathom'ſt the miſtery,</l>
+               <l>Of deep Anatomy;</l>
+               <l>
+                  <pb n="3" facs="tcp:44424:2"/>
+                  <!-- PDF PAGE 99 -->
+Th' unactive carcaſſe thou haſt preyd upon,</l>
+               <l>And ſtript it to a Sceleton,</l>
+               <l>But now (alas!) the art is gone,</l>
+               <l>And now on thee,</l>
+               <l>The crawling worms experience their Anatomy.</l>
+            </lg>
+            <lg n="7">
+               <head>7.</head>
+               <l>What though the rever'end head,</l>
+               <l>Is laid among the vulgar dead,</l>
+               <l>And the clear ſparkling light,</l>
+               <l>Ore-caſt with death and night,</l>
+               <l>Thou ly'ſt to Kings in equal ſtate,</l>
+               <l>In the ſad common bed of fate:</l>
+               <l>As ſoaring Comets ne're decline,</l>
+               <l>But in ſublimer regions ſhine,</l>
+               <l>After a while the frail, and fainty blaze,</l>
+               <l>At which the lower, wondering world did gaze,</l>
+               <l>As well as the low, groſſer flame,</l>
+               <l>That from the baſer Dunghill came,</l>
+               <l>Do's faint, and dy,</l>
+               <l>For want of fuel the devouring flame to ply.</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>When thy young, unfledg'd fame did firſt peep out,</l>
+               <l>It hovered round its native neſt about,</l>
+               <l>Till by a frequent uſe at laſt,</l>
+               <l>It o're the neighb'ring Regions paſt;</l>
+               <l>At length it round the Globe did fly,</l>
+               <l>With whom like the <hi>dear Twins</hi> 'twill live and dy;</l>
+               <l>We thought thy age ſhould nere find date,</l>
+               <l>But plac'd above the reach of Fate.</l>
+               <l>The Silence, and diſorders of the grave,</l>
+               <l>The braveſt Monarch can enſlave,</l>
+               <l>And Crowns, and Scepters can out brave,</l>
+               <l>And though the ſacred Corps is cruſht,</l>
+               <l>And the loud Organ huſht,</l>
+               <l>Yet the ſprightly virtue ſoares on high,</l>
+               <l>And lifts its lofty Shoulders to Eternity.</l>
+            </lg>
+            <lg n="9">
+               <head>9.</head>
+               <l>Was nothing ſeen beneath the Bow?</l>
+               <l>No Pageantry of Nature now?</l>
+               <l>Don't ſhe provide, or bring,</l>
+               <l>A funeral offering?</l>
+               <l>Yes! look but on the neighb'ring ſhore,</l>
+               <l>Where his brisk fame had flown before,</l>
+               <l>Where ſhe hath laid her brackiſh ſtore;</l>
+               <l>As if a common ſtock could not ſuffice,</l>
+               <l>Let through the ſluces of their eyes,</l>
+               <l>But they muſt float on briniſh waves,</l>
+               <l>And weep ore their own watry graves.</l>
+               <l>Nothing in Nature too, but doth comply,</l>
+               <l>And bear a part in this ſad, Univerſal Harmony.</l>
+            </lg>
+            <lg n="10">
+               <head>10.</head>
+               <l>Look how the long-liv'd plant, which now</l>
+               <l>To fatal Autumn ſcorn'd to bow,</l>
+               <l>
+                  <pb n="4" facs="tcp:44424:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 100 -->
+Hangs down its drooping, dying Head,</l>
+               <l>Upon its deſolate Bed;</l>
+               <l>The copious Garden too, is little leſs,</l>
+               <l>Then a diſor'derd Wilderneſs;</l>
+               <l>No Vegetable will ſubſiſt,</l>
+               <l>But takes its Autumn with the Herbaliſt;</l>
+               <l>And ſeems too Senſitive,</l>
+               <l>When no man knowes its Vertue, hates to live.</l>
+               <l>Hark, how each Dead, Obdurate thing,</l>
+               <l>Whiſpers a ſigh, and makes a doleful Din,</l>
+               <l>As if it felt the mortal ſting.</l>
+               <l>See how each Colledge mourns, the Stones</l>
+               <l>Ev'n Sympathize with us, ſweat teares, &amp; Eccho grones.</l>
+            </lg>
+            <lg n="11">
+               <head>11.</head>
+               <l>But ſince thou'rt gone, Great Soul, and left us here</l>
+               <l>Wandring in this dusky Sphere,</l>
+               <l>That without conduct, without guide</l>
+               <l>Are carri'd with the ſwift tide</l>
+               <l>Of the mad age beſide;</l>
+               <l>At every little guſt we feare,</l>
+               <l>To be tranſported there,</l>
+               <l>To the ſo fatal, rocky ſhore,</l>
+               <l>Whence we return no more,</l>
+               <l>After this ſlumber thou wilt riſe,</l>
+               <l>With active limbs, and open eyes,</l>
+               <l>As young, and airy, as before.</l>
+               <l>The mouldred Atoms, that do ly</l>
+               <l>Hudled up in obſcurity,</l>
+               <l>Shall put on Jmmortality:</l>
+               <l>And all rude aſhes coucht within this Ball,</l>
+               <l>Shall forthwith muſter at th' Almighties thundring Call.</l>
+            </lg>
+            <lg n="12">
+               <head>12.</head>
+               <l>Mean while thou liv'ſt, and lodgeſt here,</l>
+               <l>Although thou'rt quarter'd there,</l>
+               <l>Thou breath'ſt, and ſpeak'ſt ev'n every where,</l>
+               <l>Art young, and brisk, and flouriſh'ſt all the year;</l>
+               <l>Thy Famous Volumes are the breath,</l>
+               <l>By which thou doſt ſurvive thy death;</l>
+               <l>Each Sacred, Living Page,</l>
+               <l>Turns over with the age;</l>
+               <l>This's the Aſylum, this the place,</l>
+               <l>For him whom great Diſeaſes chaſe,</l>
+               <l>Thine is the truly Fortunate book,</l>
+               <l>In which who ere ſhall look,</l>
+               <l>Shall find all true it does divine,</l>
+               <l>And read long life in every line.</l>
+               <l>It lies beyond the rage,</l>
+               <l>Of the ungrateful age,</l>
+               <l>Beyond the ſhort-liv'd, dull Mortality,</l>
+               <l>Within the ſacred Archives of Eternity.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:44424:3"/>
+            <!-- PDF PAGE 100 -->
+         </div>
+      </body>
+   </text>
+</TEI>
